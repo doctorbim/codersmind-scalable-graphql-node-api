@@ -1,0 +1,8 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("ce8f6c42-04a2-496a-8499-ced523fe2afc") }
+MongoDB server version: 4.4.1
+uncaught exception: SyntaxError: expected expression, got '<' :
+@mongo-struc.js:2:16
+failed to load: mongo-struc.js
+exiting with code -3
